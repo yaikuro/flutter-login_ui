@@ -189,7 +189,7 @@ class _LoginScreenState extends State<LoginScreen> {
       ),
     );
   }
-
+  
   Widget _buildSocialBtnRow() {
     return Padding(
       padding: EdgeInsets.symmetric(vertical: 30.0),
